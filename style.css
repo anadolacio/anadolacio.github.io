@@ -1,0 +1,52 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(167, 114, 70);
+    text-align: left;
+    font-size: 22px;
+    color:rgb(71, 75, 75);
+}
+
+#perfil {
+    border-radius: 10%;
+    margin-left: 11%;
+}
+
+#mensagem {
+    margin-left: 8%;
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2%;
+}
+
+#descricao {
+    font-family: Arial, Helvetica, sans-serif;
+    it
+}
+
+h1, h2, h3 {
+    color: #407076;
+}
+
+.realce {
+    color: #063136;
+    font-weight: 10%;
+    text-decoration: underline;
+}
+
+.primeira, ol {
+    font-size: 20px;
+}
+
+.segunda {
+    font-size: 18px;
+}
+
+.terceira {
+    font-size: 16px;
+}
+
+.quarta {
+    font-size: 14px;
+}
